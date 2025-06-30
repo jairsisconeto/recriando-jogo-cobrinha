@@ -44,3 +44,4 @@ Clone este repositório e abra o arquivo `index.html` em um navegador compatíve
 ## 🎮 Demonstração  
 Você pode conferir o jogo funcionando diretamente [aqui](https://recriando-jogo-cobrinha.vercel.app/).
 
+![Uma imagem represent](https://github.com/user-attachments/assets/c80a8869-715b-4a27-975c-eee310eb3e68)
