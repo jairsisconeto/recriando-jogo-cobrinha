@@ -38,10 +38,9 @@ Durante o projeto, trabalhei com diversos conceitos e habilidades, como:
 
 ---
 
-## 📌 Como executar o jogo
-Clone este repositório e abra o arquivo `index.html` em um navegador moderno, como Google Chrome ou Firefox.
+## 📌 Como executar o jogo  
+Clone este repositório e abra o arquivo `index.html` em um navegador compatível.
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-start index.html
+## 🎮 Demonstração  
+Você pode conferir o jogo funcionando diretamente [aqui](https://recriando-jogo-cobrinha.vercel.app/).
+
